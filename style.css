@@ -74,7 +74,7 @@
 .pragraph{
     color: #0D1321;
     font-size: 16px;
-    padding: 20px 20px 10px 20px ;
+     margin: 0px 90px 0px 90px;
     
 }
 .seconditem{
@@ -84,6 +84,7 @@
     margin-bottom: 50px;
     padding: 20px 20px 10px 40px ;
     border-radius: 5px;
+    margin-top: 50px;
    
      
 }
@@ -115,12 +116,65 @@
 .inspriration{
     display: flex;
     justify-content: center;
-    margin: 50px 220px 100px 220px ;;
-    width: 1140px;
-}
-.youtube{
-    background-color: rgb(107, 150, 187);
+    margin-left: 100px;
+
 }
 .video{
-    padding: 10px 10px 10px 10px;
+    max-width: 1140px;
 }
+.youtube{
+background-color: rgb(211, 221, 221);
+border-radius: 7px;
+margin-top: 50px;
+ 
+}
+.tubevideo{
+    padding: 20px 0px 20px 30px;
+    border-radius: 7px;
+}
+.target{
+    display: flex;
+    justify-content: center;
+    margin-left: 80pxpx;
+}
+.contenertarget{
+    max-width: 1140px;
+}
+.stylelogo{
+   display: flex;
+   gap: 20px;
+   justify-content: right;
+}
+.skills{
+ background-color: rgb(218, 246, 246);
+ border: 5px;
+ border-radius: 10px;
+ padding: 30px;
+ border-radius: 8px;
+ margin-top: 50px;
+ margin-bottom: 130px;
+ justify-content: right;
+ width: 364px;
+}
+.skillss{
+    background-color:bisque;
+    border: 5px;
+    border-radius: 10px;
+    padding: 30px;
+    border-radius: 8px;
+    margin-top: 50px;
+    margin-bottom: 130px;
+    justify-content: right;
+    width: 364px;
+   }
+   .skillsss{
+    background-color: beige;
+    border: 5px;
+    border-radius: 10px;
+    padding: 30px;
+    border-radius: 8px;
+    margin-top: 50px;
+    margin-bottom: 130px;
+    justify-content: right;
+    width: 364px;
+   }
