@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+.azeret {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  
+.mainheader{
+    background-image: url(assets/Hero-bg.png);
+    max-width: 1440px;
+    height: 650px;
+}
+.firstpage{
+    display: flex;
+    justify-content: center;
+    margin: 0px 220px 100px 220px ;
+}
+.firstdetails{
+   max-width: 998px;
+   
+    
+}
+.firstimage{
+  margin-left: 400px;
+
+}
+.near{
+    color:#0D1321 ;
+    font-size: 48px;
+    text-align: center;
+    font: Azeret Mono;
+}
+.prag0{
+    color: #0D1321;
+    font-size: 20px;
+    margin-left: 100px;
+}
+.btn{
+    color:white;
+    background-color: #0D1321;
+    border: none;
+    font-weight: 50% bold;
+    font-size: 20px;
+    padding:18px 35px ;
+    border-radius: 5px;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.secondpages{
+    display: flex;
+    justify-content: center;
+    margin: 50px 220px 100px 220px ;;
+    background-color: rgb(228, 233, 233);
+    width: 1140px;
+   
+    
+}
+.seconddetails{
+    max-width: 850px ;
+    border: 3px;
+    border-radius: 7px;
+}
+.whymain{
+    text-align: center;
+    margin-top:70px;
+
+}
+.why{
+    color: #0D1321;
+    font-weight: 2*bold;
+    font-size: 32px;
+}
+.pragraph{
+    color: #0D1321;
+    font-size: 16px;
+    padding: 20px 20px 10px 20px ;
+    
+}
+.seconditem{
+    display: flex;
+    gap: 100px;
+    background-color: white;
+    margin-bottom: 50px;
+    padding: 20px 20px 10px 40px ;
+    border-radius: 5px;
+   
+     
+}
+.secondall h2{
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: bold;
+}
+.prag2{
+    color:#0D1321 ;
+    font-size: 16px;
+}
+.learnmore{
+    width: 172px;
+    height: 47px;
+    margin-top: 15px;
+    background: none;
+    font-size: 20px;
+    font-weight: 50% bold;
+}
+.secondall3{
+    display: flex;
+    gap: 100px;
+    background-color: white;
+    margin-bottom: 50px;
+    padding: 20px 20px 10px 40px ;
+    border-radius: 5px;
+}
+.inspriration{
+    display: flex;
+    justify-content: center;
+    margin: 50px 220px 100px 220px ;;
+    width: 1140px;
+}
+.youtube{
+    background-color: rgb(107, 150, 187);
+}
+.video{
+    padding: 10px 10px 10px 10px;
+}
