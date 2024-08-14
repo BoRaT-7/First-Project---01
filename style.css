@@ -223,3 +223,28 @@ margin-top: 50px;
     font-size: 20px;
     font-weight: 50%bold;
 }
+footer{
+    background-color: bisque;
+    margin-top: 25px;
+}
+.fotercontener{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    width: 1140px;
+    margin-left: 156px;
+}
+.footerpg{
+    margin-top: 30px;
+
+}
+.fotercontener ul {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    justify-content: right;
+}
+
+   
+
+
